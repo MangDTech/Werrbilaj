@@ -1,1 +1,1 @@
-# ```Alphabot-Api```
+# ```Rest-Api```
